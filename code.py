@@ -15,7 +15,7 @@ print("""
 ║              T O - D O   L I S T   A P P                  ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
-""") # DJTheron: this was by ai becuause my attempt to get it to work failed
+""") # DJTheron: I first attempted to use this website: https://cooltext.app/generator/cli-text-generator, but for some reason like it didnt like format properly and was like misaligned so then I turned to claude for help and this is the result but i learned that its a multiline string so i need to use triple quotes and also that i needed to like make a plain line first and then put the text
 
 while True:
     print('\n\n\nWelcome to your To-Do List')
